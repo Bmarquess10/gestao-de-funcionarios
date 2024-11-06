@@ -1,0 +1,9 @@
+[
+    {
+      "origin": ["https://gestao-de-funcionarios-ad340.web.app"],
+      "method": ["GET", "POST", "PUT", "DELETE"],
+      "maxAgeSeconds": 3600,
+      "responseHeader": ["Content-Type", "Authorization"]
+    }
+  ]
+  
